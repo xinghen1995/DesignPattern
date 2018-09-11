@@ -13,3 +13,5 @@ head first pattern[:coffee:]
 #<span id="singleton">单例模式</span>
 
 #<span id="command">命令模式</span>
+
+命令模式将
